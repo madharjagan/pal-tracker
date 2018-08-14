@@ -10,6 +10,7 @@ import java.util.Map;
 @RestController
 public class EnvController {
 
+    // These are public variables
     String port;
     String memory;
     String instanceIndex;
